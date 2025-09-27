@@ -9,4 +9,4 @@ This organization focuses on delivering **hands-on AWS** and **Spring Boot Integ
 - **Infrastructure as Code With Terraform**: reproducible provisioning of AWS services, Kubernetes clusters, and surrounding infrastructure
 - **Cloud-native architecture support**, empowering production-ready microservice ecosystems.
 
-This organization's mission is to build a **practical and extensible integration toolkit** around **AWS**, **Spring**, **Kubernentes**, and **Terraform**, helping teams deliver **reliable**, **observable**, and **maintainable cloud-native applications** faster. 
+This organization's mission is to build a **practical and extensible integration toolkit** around **AWS**, **Spring**, **Kubernetes**, and **Terraform**, helping teams deliver **reliable**, **observable**, and **maintainable cloud-native applications** faster. 
